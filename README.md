@@ -43,8 +43,9 @@
 - [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/)
 - [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
 
-### 유튜브 채널
+### 유튜브
 - [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w)
+- [webview in flutter](https://youtu.be/RA-vLF_vnng)
   
 ### 링크
 - [[번역] Flutter는 왜 혁명적인가?](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
@@ -55,7 +56,7 @@
 - [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide)
   - Bloc + Rx 패턴을 배울수 있습니다. 
 
-### 유튜브 채널
+### 유튜브
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg)
 - [두부랩님의 Bloc 강의](https://www.youtube.com/watch?v=lQhrMGNXKL0)
 
@@ -63,6 +64,12 @@
 - [Flutter Todos Tutorial with “flutter_bloc”](https://medium.com/flutter-community/flutter-todos-tutorial-with-flutter-bloc-d9dd833f9df3)
 - [rxmarbles](https://rxmarbles.com/)
 - [RxDart](https://www.burkharts.net/apps/blog/rxdart-magical-transformations-of-streams/)
+- [Flutter Deep Dive Part 1: “RenderFlex children have non-zero flex…](https://medium.com/flutter-community/flutter-deep-dive-part-1-renderflex-children-have-non-zero-flex-e25ffcf7c272)
+
+## Flutter CI / CD
+- [ci/cd with codemagic](https://youtu.be/GsQ5MHHVNqQ)
+- [jenkis Part 1](https://medium.com/@sudhanshu0203/tales-from-a-n00b-ci-for-flutter-using-jenkins-and-docker-episode-1-8673bd1f578e)
+- [jenkis Part 2](https://medium.com/@sudhanshu0203/tales-from-a-n00b-ci-for-flutter-using-jenkins-and-docker-episode-2-30ce894c93cc)
 
 ## 추천 커뮤니티
 - [국내 Flutter 카카오톡 오픈방](https://open.kakao.com/o/gsshoXJ)
