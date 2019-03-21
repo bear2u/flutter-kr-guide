@@ -41,7 +41,7 @@
 ### 강의
 - [인프런 강의](https://www.inflearn.com/course/flutter-%EC%9E%85%EB%AC%B8/)
 - [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/)
-- [Flutter & Dart - The Complete Flutter App Development Course)(https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
+- [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
 
 ### 유튜브 채널
 - [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w)
