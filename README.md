@@ -1,5 +1,7 @@
 # Flutter 개발시 필요한 문서 정리 저장소입니다. 
 
+> 자료 공유해주실 분은 PR 부탁드립니다.^^
+
 ## 추천페이지
 - [공식홈(영어)](https://flutter.dev/)
 - [번역중인 홈](http://flutter-kr.io)
@@ -43,7 +45,6 @@
 
 ### 유튜브 채널
 - [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w)
-- [두부랩님의 Bloc 강의](https://www.youtube.com/watch?v=lQhrMGNXKL0)
   
 ### 링크
 - [[번역] Flutter는 왜 혁명적인가?](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
@@ -56,6 +57,7 @@
 
 ### 유튜브 채널
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg)
+- [두부랩님의 Bloc 강의](https://www.youtube.com/watch?v=lQhrMGNXKL0)
 
 ### 링크
 - [Flutter Todos Tutorial with “flutter_bloc”](https://medium.com/flutter-community/flutter-todos-tutorial-with-flutter-bloc-d9dd833f9df3)
