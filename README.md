@@ -46,6 +46,7 @@
 ### 유튜브
 - [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w)
 - [webview in flutter](https://youtu.be/RA-vLF_vnng)
+- [flutter에서 키를 사용해야 하는 경우](https://www.youtube.com/watch?v=kn0EOS-ZiIc&vl=it)
   
 ### 링크
 - [[번역] Flutter는 왜 혁명적인가?](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
