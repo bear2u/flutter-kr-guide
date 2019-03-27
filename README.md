@@ -74,6 +74,7 @@
 
 ## 추천 오픈소스
 - [드로이드나이츠](https://github.com/droidknights/DroidKnights-Festival-2019-flutter)
+- [Sqlfite helper](https://github.com/synw/sqlcool)
 
 ## 추천 커뮤니티
 - [국내 Flutter 카카오톡 오픈방](https://open.kakao.com/o/gsshoXJ)
