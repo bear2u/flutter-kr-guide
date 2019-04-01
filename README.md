@@ -71,6 +71,7 @@
 - [rxmarbles](https://rxmarbles.com/)
 - [RxDart](https://www.burkharts.net/apps/blog/rxdart-magical-transformations-of-streams/)
 - [Flutter Deep Dive Part 1: “RenderFlex children have non-zero flex…](https://medium.com/flutter-community/flutter-deep-dive-part-1-renderflex-children-have-non-zero-flex-e25ffcf7c272)
+ - [Machine Learning in Flutter](https://medium.com/flutterdevs-pub/machine-learning-in-flutter-c1c1da0676ac)
 
 ## Flutter CI / CD
 - [ci/cd with codemagic](https://youtu.be/GsQ5MHHVNqQ)
