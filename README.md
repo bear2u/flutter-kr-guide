@@ -7,34 +7,8 @@
 - [번역중인 홈](http://flutter-kr.io)
 - [awesome flutter](https://github.com/Solido/awesome-flutter)
 - [코드랩](https://flutter.dev/docs/codelabs)
+- [Flutter Awesome](https://flutterawesome.com/)
 - [Weekly flutter](https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
-  - Dismissible
-  - SafeArea
-  - Expanded
-  - Wrap
-  - AnimatedContainer
-  - Opacity
-  - FutureBuilder
-  - FadeTransition
-  - FloatingActionButton
-  - PageView
-  - Talbe
-  - SilverAppBar
-  - SilverList & SilverGrid
-  - FadeInImage
-  - StreamBuilder
-  - InheritedModel
-  - ClipRRect
-  - Hero
-  - Custom Painter
-  - Tooltip
-  - FittedBox
-  - LayoutBuilder
-  - AbsorbPointer
-  - Transform
-  - BackdropFilter
-  - Align
-  - Positioned
 
 ## 헬퍼
 - [Dart DevTool(Preview](https://github.com/flutter/devtools)
